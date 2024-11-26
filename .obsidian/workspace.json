@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "590add60e31d9c92",
+    "type": "split",
+    "children": [
+      {
+        "id": "2edb98caa9b09665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86f1432e4f75cc4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/solarpunk/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acc99376fd6b447c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3136e100482c9b03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac42f84c587b1201",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f37227fee13a29d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "61a78dc543426fd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "5768b87b2a9fc476",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e12c70a014769b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "746ed656571512cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "05f59d7df9ecb335",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "ceeaacbec0e322ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "00e89862280ec71f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "86f1432e4f75cc4f",
+  "lastOpenFiles": [
+    "markdown.md",
+    "docs/solarpunk/index.md",
+    "_site/markdown.html",
+    "docs/solarpunk/solarpunk-media/movies.md",
+    "docs/solarpunk/credits.md",
+    "docs/about-me/index.md",
+    "index.md",
+    "docs/solarpunk/solarpunk-media/blogs-and-websites.md",
+    "_site/docs/solarpunk/solarpunk-media/blogs-and-websites.html",
+    "docs/solarpunk/solarpunk-media/video-series.md",
+    "docs/solarpunk/solarpunk-media/video-games.md",
+    "docs/solarpunk/solarpunk-media/video-documentaries.md",
+    "docs/solarpunk/solarpunk-media/tabletop-games.md",
+    "docs/solarpunk/solarpunk-media/podcasts.md",
+    "docs/solarpunk/solarpunk-media/non-fiction.md",
+    "docs/solarpunk/solarpunk-media/music.md",
+    "docs/solarpunk/solarpunk-media/index.md",
+    "docs/solarpunk/solarpunk-media/fiction.md",
+    "docs/solarpunk/solarpunk-media/fashion.md",
+    "docs/solarpunk/solarpunk-media/art.md",
+    "docs/solarpunk/solarpunk-media/default.md",
+    "_site/docs/solarpunk/solarpunk-media/index.html",
+    "_site/docs/solarpunk/solarpunk-media/Untitled.md",
+    "docs/urbex-313/weirdness.md",
+    "_site/docs/urbex-313/weirdness.html",
+    "docs/urbex-313/urbex-rulebook.md",
+    "docs/urbex-313/magic.md",
+    "docs/urbex-313/index.md",
+    "docs/urbex-313/guide-to-the-313.md",
+    "_site/docs/urbex-313/magic.html",
+    "_site/docs/urbex-313/index.html",
+    "_site/docs/urbex-313/urbex-rulebook.html",
+    "_site/docs/urbex-313/guide-to-the-313.html",
+    "_site/docs/urbex-313/detroit-neighborhood-map.html",
+    "_site/docs/seapunk/index.html",
+    "docs/solarpunk/flag-2.png",
+    "docs/solarpunk/flag-1.jpg",
+    "docs/about-me/cwd1.jpg",
+    "_site/docs/about-me/cwd1.jpg",
+    "docs/about-me/cwd.jpg",
+    "docs/about-me/index.jpg",
+    "docs/cwd1.jpg",
+    "_site/cwd1.jpg",
+    "cwd1.jpg",
+    "_site/docs/urbex-313/assets/Urbex Font.png"
+  ]
+}
